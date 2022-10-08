@@ -1,4 +1,3 @@
-# task_manager_rails
 # Task Manager
 
 ## CRUD in Rails
